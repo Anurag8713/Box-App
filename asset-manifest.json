@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Box-App/static/css/main.06776646.css",
+    "main.js": "/Box-App/static/js/main.7988b93e.js",
+    "index.html": "/Box-App/index.html",
+    "main.06776646.css.map": "/Box-App/static/css/main.06776646.css.map",
+    "main.7988b93e.js.map": "/Box-App/static/js/main.7988b93e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06776646.css",
+    "static/js/main.7988b93e.js"
+  ]
+}
